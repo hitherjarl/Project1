@@ -222,6 +222,16 @@ header.masthead .intro-text .intro-heading {
   text-transform: none;
 }
 
+
+
+#comingsoon .intro-text .intro-heading {
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  }
+
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
@@ -588,7 +598,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-image: url("https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
