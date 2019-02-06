@@ -232,6 +232,10 @@ header.masthead .intro-text .intro-heading {
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
 
+#comingsoon { 
+    background-color: #f8f9fa;
+}
+
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
