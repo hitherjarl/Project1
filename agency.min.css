@@ -46,7 +46,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   font-style: italic;
   margin-bottom: 75px;
@@ -219,7 +219,10 @@ header.masthead .intro-text .intro-heading {
 
 .service-heading {
   margin: 15px 0;
+  font-size: 20px;
   text-transform: none;
+  background: rgba(0, 174, 199, 0.9)
+    
 }
 
 
@@ -256,7 +259,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(10, 200, 255, 0.9);
+  background: rgba(0, 174, 199, 0.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -397,6 +400,7 @@ header.masthead .intro-text .intro-heading {
   position: relative;
   padding: 0;
   list-style: none;
+  font-size: 1.6rem;
 }
 
 .timeline:before {
@@ -494,6 +498,7 @@ header.masthead .intro-text .intro-heading {
 .timeline .timeline-heading h4 {
   margin-top: 0;
   color: inherit;
+  font-size: 2.4rem;
 }
 
 .timeline .timeline-heading h4.subheading {
